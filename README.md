@@ -34,3 +34,10 @@ A web-based machine learning application that predicts the sentiment of movie re
   └── static
       └── style.css
   ```
+# How to acces API Key of Kaggle
+- Create account on Kaggle
+- Go to profile -> Settings
+- Verify your account
+- Click Create Legacy API Key
+- click yes
+- kaggle.json file is downloaded
