@@ -20,7 +20,7 @@ A web-based machine learning application that predicts the sentiment of movie re
 - HTML
 - CSS
   # Project Structure
-  '''
+  ```
   sentiment-analysis-app
   │
   ├── app.py
@@ -33,4 +33,4 @@ A web-based machine learning application that predicts the sentiment of movie re
   │
   └── static
       └── style.css
-  '''
+  ```
